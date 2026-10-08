@@ -29,10 +29,10 @@ org; updates on every release.
      and is the audience rather than GitHub's public/private. -->
 | Repo | Who can see it | What it's for |
 | --- | --- | --- |
-| [welcome](https://github.com/delete-nlp-f2026/welcome) | public (students join here) | Course front door - open a Join issue to enrol |
-| [materials](https://github.com/delete-nlp-f2026/materials) | enrolled students & auditors only | Released lectures, labs, readings, & other materials |
-| [classroom-config](https://github.com/delete-nlp-f2026/classroom-config) | instructor-only | [visible to instructors only]: Everything you configure for this cohort is here - student roster, teams, term schedule, and marking. Students never see it, and no PII leaves this repo. |
-| [delete-nlp-f2026.github.io](https://github.com/delete-nlp-f2026/delete-nlp-f2026.github.io) | public | [do not touch]: Course website (auto-deployed) |
+| [welcome](https://github.com/DELETE-nlp-f2026/welcome) | public (students join here) | Course front door - open a Join issue to enrol |
+| [materials](https://github.com/DELETE-nlp-f2026/materials) | enrolled students & auditors only | Released lectures, labs, readings, & other materials |
+| [classroom-config](https://github.com/DELETE-nlp-f2026/classroom-config) | instructor-only | [visible to instructors only]: Everything you configure for this cohort is here - student roster, teams, term schedule, and marking. Students never see it, and no PII leaves this repo. |
+| [delete-nlp-f2026.github.io](https://github.com/DELETE-nlp-f2026/delete-nlp-f2026.github.io) | public | [do not touch]: Course website (auto-deployed) |
 <!-- dsl:repo-table:end -->
 
 ---
