@@ -1,0 +1,18 @@
+{
+  "hold": true,
+  "migrated": false,
+  "repos": {
+    "DELETE-nlp-f2026/classroom-config": {
+      "allowed_actions": "all",
+      "enabled": true
+    },
+    "DELETE-nlp-f2026/delete-nlp-f2026.github.io": {
+      "allowed_actions": "all",
+      "enabled": true
+    },
+    "DELETE-nlp-f2026/welcome": {
+      "allowed_actions": "all",
+      "enabled": true
+    }
+  }
+}
